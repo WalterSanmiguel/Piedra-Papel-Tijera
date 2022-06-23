@@ -8,5 +8,4 @@ function machine () {const random = list[Math.floor(Math.random()*list.length)];
      var CPU = 0
      if (random = papel) {
         alert("hey, you won")
-        //borrar este mensaje
      }
